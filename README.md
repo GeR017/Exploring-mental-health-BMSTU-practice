@@ -3,7 +3,7 @@
 
 ## Project description
 
-[Project link](https://www.kaggle.com/competitions/home-data-for-ml-course/overview](https://www.kaggle.com/competitions/playground-series-s4e11/overview))
+[Project link](https://www.kaggle.com/competitions/playground-series-s4e11)
 
 ## Dataset Description
 This dataset was collected as part of a comprehensive survey aimed at understanding the factors contributing to depression risk among adults. It was collected during an anonymous survey conducted between January and June 2023. The survey was conducted across various cities, targeting individuals from diverse backgrounds and professions. Participants, ranging from 18 to 60 years old, voluntarily provided inputs on factors such as age, gender, city, degree, job satisfaction, study satisfaction, study/work hours, and family history among others. Participants were asked to provide inputs without requiring any professional mental health assessments or diagnostic test scores.
